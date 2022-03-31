@@ -283,7 +283,8 @@ img{
 
     .section-footer div:nth-child(2),
     .section-footer div:nth-child(3){
-        display: none;
+        /*display: none;*/
+        padding: 20px 0;
     }
     .section-b-inner p {
         padding: 0 20px;
